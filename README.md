@@ -20,3 +20,5 @@
                         (        |(||(||)||||        )
                           (   /  FREE PALESTINE  \   )
                         (/ / //  /|//||||\\  \ \   \ _)
+
+![logo.png](logo.png)
